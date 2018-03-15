@@ -1,5 +1,6 @@
 #!/bin/bash --login
 
+clear
 cat << "EOF"
 
 
@@ -23,6 +24,5 @@ cat << "EOF"
     `Y-.____(__}              
      |     {__)           
            ()`
-
 
 EOF
